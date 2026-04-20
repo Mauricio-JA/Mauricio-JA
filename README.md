@@ -13,7 +13,7 @@
 
 <picture> <img align="right" src="https://images.unsplash.com/photo-1731719316507-f26b95bc3bf0?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width = 300px></picture>
 
-- :school: I am a `Systems Engineer` graduated from [UDI University](https://www.udi.edu.bo/)
+- :school: I am a `Systems Engineer`
 - :technologist: **Currently working on** `Full-Stack Development`
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Mauricio-Justiniano&amp;color=EA4335&amp;style=flat-square&logo=Gmail&logoColor=red)](mailto:mauricio.justiniano.anez@gmail.com)
 - :nerd_face: Always believe `"Why do we fall? So we can learn to pick ourselves up."` ![Alfred - Batman Begins](https://img.shields.io/badge/Alfred-Batman-black?style=flat-square&labelColor=yellow)
