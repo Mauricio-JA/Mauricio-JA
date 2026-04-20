@@ -95,21 +95,10 @@
 
 <div align=left>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Mauricio-JA&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://gh-trophy.cdnsoft.net/?username=Mauricio-JA&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 
 <!--- trophy (start) -->
 </p>        
 <!--- stats (end) -->
-
-<br>
-
-<!--profile visit count-->
-
-<div align="center">
-
-
-[![](https://visitcount.itsvg.in/api?id=Mauricio-JA&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
-
-</div>
